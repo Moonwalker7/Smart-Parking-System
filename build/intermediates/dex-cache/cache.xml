@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/savio/workspace/SPPUSmartParkingSystem/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/savio/workspace/SPPUSmartParkingSystem/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_f3c4818022ac63ff1270329f18dea29727cd4760/classes.dex" />
+    </item>
+    <item
+        jar="/home/savio/workspace/SPPUSmartParkingSystem/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/savio/workspace/SPPUSmartParkingSystem/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_96e9dc8dd998842ba4a91c2118587eedb9e75cd4/classes.dex" />
+    </item>
+    <item
+        jar="/home/savio/workspace/SPPUSmartParkingSystem/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/savio/workspace/SPPUSmartParkingSystem/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_50156be8a7533ca6aa4d2984eb5938adb8005444/classes.dex" />
+    </item>
+    <item
+        jar="/home/savio/workspace/SPPUSmartParkingSystem/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/savio/workspace/SPPUSmartParkingSystem/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_f20bf533c7968b3b4926c25b4b8db4c9e0cf0f29/classes.dex" />
+    </item>
+    <item
+        jar="/home/savio/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/savio/workspace/SPPUSmartParkingSystem/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_da5c550af5d152f0ae4077f325146e88d8f91b24/classes.dex" />
+    </item>
+    <item
+        jar="/home/savio/workspace/SPPUSmartParkingSystem/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/home/savio/workspace/SPPUSmartParkingSystem/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.1.0_1c893888333893f93717bb9f43cf3876bf83532e/classes.dex" />
+    </item>
+    <item
+        jar="/home/savio/workspace/SPPUSmartParkingSystem/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d39bbd43aaa043c1d1068c277bbd7df36f60c177">
+        <dex dex="/home/savio/workspace/SPPUSmartParkingSystem/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_53ce94fb4fbee64a196e21a93a5517f26cb4f264/classes.dex" />
+    </item>
+    <item
+        jar="/home/savio/workspace/SPPUSmartParkingSystem/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/savio/workspace/SPPUSmartParkingSystem/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_3172b8f65628577041c4471ac556cd701e8d3a3a/classes.dex" />
+    </item>
+    <item
+        jar="/home/savio/workspace/SPPUSmartParkingSystem/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/savio/workspace/SPPUSmartParkingSystem/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_b3c71131105c7aaede808b1b8064cec049627ac4/classes.dex" />
+    </item>
+    <item
+        jar="/home/savio/workspace/SPPUSmartParkingSystem/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ab950c8317aa16633a98015cf206eebdb005a2e5">
+        <dex dex="/home/savio/workspace/SPPUSmartParkingSystem/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_16baef7073d94ea889ba1d175582bbbf3ed08e94/classes.dex" />
+    </item>
+
+</items>
