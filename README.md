@@ -1,3 +1,4 @@
-# pune university smart parking system
+# Smart Parking System
 
-An Android application to help commuters find a parking space close to respective departments, they wish to visit.
+This is an Android application built as a course project to help commuters find parking spaces close to the respective education departments. 
+
